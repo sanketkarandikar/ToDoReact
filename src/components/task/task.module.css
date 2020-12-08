@@ -1,0 +1,21 @@
+.listClass {
+    /* width: 50%; */
+    margin: 10px 30%;
+}
+.pending {
+    background-color: darksalmon;
+}
+
+.completed {
+    -webkit-text-decoration-line: line-through; /* Safari */
+    text-decoration-line: line-through;
+    background-color: #99e699;
+}
+
+.listStyle {
+    margin: 10px 0px;
+}
+
+.listitemContent {
+    padding: 0 10px;
+}
